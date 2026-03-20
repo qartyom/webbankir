@@ -1,5 +1,5 @@
 Для запуска тестов:
-1) клонировать репозиторий: git clone 'url repo'
+1) клонировать репозиторий: git clone https://github.com/qartyom/webbankir.git
 2) запустить тесты:
 mvn clean test
 
